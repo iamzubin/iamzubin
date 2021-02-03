@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋 I am Zubin
+
+### I’m a software developer/programmer/techie/dog lover/human/AI. I love to write code, and making a piece of sand to perform whatever tasks I ask it to do is a great power. I use this power to be lazy :)
+
+- 🔭 I’m currently working on Freelance Projects and am currently looking for a job
+- 🌱 I’m currently learning React.Js
+- 📫 How to reach me: zchoudhary.10@gmail.com
+- 😄 Pronouns: He/Him
+- 💵 Wallets
+  - ETH : 0x3a574461fd1279FCF96043bcF416C53B7e8dcEC0
+
 
 <!--
 **iamzubin/iamzubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
