@@ -3,7 +3,7 @@
 ### I’m a software developer/programmer/techie/dog lover/human/AI. I love to write code, and making a piece of sand to perform whatever tasks I ask it to do is a great power. I use this power to be lazy :)
 
 - 🔭 I’m currently working on Freelance Projects and am currently looking for a job
-- 🌱 I’m currently learning React.Js
+- 🌱 I’m currently interested in React.Js, Web3
 - 📫 How to reach me: zchoudhary.10@gmail.com
 - 😄 Pronouns: He/Him
 - 💵 Wallets
