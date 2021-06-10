@@ -1,6 +1,5 @@
 # Hi there 👋 I am Zubin
 
-### I’m a software developer/programmer/techie/dog lover/human/AI. I love to write code, and making a piece of sand to perform whatever tasks I ask it to do is a great power. I use this power to be lazy :)
 
 - 🔭 I’m currently working on Freelance Projects and am currently looking for a job
 - 🌱 I’m currently interested in React.Js, Web3
