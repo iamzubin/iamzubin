@@ -1,1 +1,1 @@
-hello
+Hello, I'm a software developer, programmer, tech enthusiast, dog lover, and human (or maybe AI). I love writing code, and making a piece of silicon perform whatever tasks I ask is a great power. I use this power to be lazy. :)
