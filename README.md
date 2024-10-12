@@ -1,2 +1,1 @@
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWE5d2pmMzlmbmtxNmFsczNsNjJtMWpsdzJteTlxb21kcmJ2b251OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.webp)
-Hello, I'm a software developer, programmer, tech enthusiast, dog lover, and human (or maybe AI). I love writing code, and making a piece of silicon perform whatever tasks I ask is a great power. I use this power to be lazy. :)
+<center><a href="https://github.com/iamzubin/holdem/releases"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWE5d2pmMzlmbmtxNmFsczNsNjJtMWpsdzJteTlxb21kcmJ2b251OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.webp"></a></center>
