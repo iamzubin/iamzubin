@@ -2,9 +2,6 @@
 
 I'm **Zubin Choudhary** — a full-stack developer focused on building dev tools and smart contract systems for the Ethereum ecosystem.
 
-\
-
-
 ---
 
 ## 🧠 Experience
