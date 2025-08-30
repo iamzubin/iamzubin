@@ -8,7 +8,7 @@ I'm **Zubin Choudhary** — a full-stack developer focused on building dev tools
 
 I've worked across startups, hackathons, and open source — always with a focus on clean UX and robust smart contract systems:
 
-- **[FFREED](https://github.com/iamzubin/ffreed)** – Founder. Account Abstraction SDK to deploy contracts without worrying about gas fees or key management.
+- **[FFREED](https://www.iamzub.in/case-studies/ffreed)** – Founder. Account Abstraction SDK to deploy contracts without worrying about gas fees or key management.
 - **[Stubs](https://x.com/StubsWorldHQ)** – Built ERC721/1155 smart contracts, relayers, and an on-chain token grid UI in React.
 - **[Sublime Finance](https://x.com/sublimefinance)** – Worked on DeFi smart contracts, EIP-712-based identity verification, and frontend optimization.
 - **Freelance + Open Source** – Contributed to cross-chain infra (e.g., PolygonZkEVM bridges), dev tools, and integrations.
