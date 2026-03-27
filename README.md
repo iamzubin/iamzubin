@@ -4,6 +4,13 @@ I'm **Zubin Choudhary** — a full-stack developer focused on building dev tools
 
 ---
 
+## 🛠️ Projects
+
+- **[Holdem](https://holdem.iamzub.in)** – A cross-platform (Windows + macOS) productivity tool for temporarily holding files while multitasking across apps. Built with Tauri, focused on fast, invisible UX with drag-and-drop workflows and keyboard-first interactions.
+
+
+---
+
 ## 🧠 Experience
 
 I've worked across startups, hackathons, and open source — always with a focus on clean UX and robust smart contract systems:
@@ -27,5 +34,5 @@ I've worked across startups, hackathons, and open source — always with a focus
 
 ## 📬 Let’s Connect
 
-Always looking to collaborate with teams building serious infra or user-first dApps.\
-Whether you're hiring or freelancing — [email me](mailto\:me@iamzub.in) or [DM me on Twitter](https://twitter.com/iamzubin).
+Always looking to collaborate with teams building serious infra or user-first dApps.  
+Whether you're hiring or freelancing — [email me](mailto:me@iamzub.in) or [DM me on Twitter](https://twitter.com/iamzubin).
