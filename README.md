@@ -35,4 +35,4 @@ I've worked across startups, hackathons, and open source — always with a focus
 ## 📬 Let’s Connect
 
 Always looking to collaborate with teams building serious infra or user-first dApps.  
-Whether you're hiring or freelancing — [email me](mailto:me@iamzub.in) or [DM me on Twitter](https://twitter.com/iamzubin).
+Whether you're hiring or freelancing — [email me](mailto:me@iamzub.in) or [DM me on Twitter](https://twitter.com/iamzub_in).
